@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E2EF3A91-641F-40D9-B178-86F1D8A1C825</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MGTileMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A2D0AACB39BAE3A9992380DC5441C955044200F</key>
+		<string>github.com:zxl20zxl/MGTileMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MGTileMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A2D0AACB39BAE3A9992380DC5441C955044200F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:zxl20zxl/MGTileMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A2D0AACB39BAE3A9992380DC5441C955044200F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A2D0AACB39BAE3A9992380DC5441C955044200F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MGTileMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>

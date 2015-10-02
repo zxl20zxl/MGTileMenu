@@ -253,6 +253,8 @@ NSString *MGTileMenuDidSwitchToPageNotification;
 											 selector:@selector(deviceDidRotate:)
 												 name:@"UIDeviceOrientationDidChangeNotification"
 											   object:nil];
+	
+	//go some where 
 }
 
 
